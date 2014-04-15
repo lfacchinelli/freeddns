@@ -1,0 +1,4 @@
+freeddns
+========
+
+FreeDDNS python client
